@@ -1,0 +1,1 @@
+print("a ne yim ditey. A yim paiton")
